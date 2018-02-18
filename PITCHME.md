@@ -14,15 +14,9 @@
 
 ### @masayuki14
 
-<a href="#">
-    <img src="./assets/twitter.png" style="width: 180px; background-color: white;" onclick="window.open('https://twitter.com/masayuki14','_blank')" />
-</a>
-<a href="https://github.com/masayuki14">
-    <img src="./assets/github.png"  style="width: 180px; background-color: white;" />
-</a>
-<a href="http://masayuki14.hatenablog.com/">
-    <img src="./assets/hatena.png"  style="width: 180px; background-color: white;" />
-</a>
+<img src="./assets/twitter.png" style="width: 180px; background-color: white; cursor: pointer;" onclick="window.open('https://twitter.com/masayuki14',    '_blank')" />
+<img src="./assets/github.png"  style="width: 180px; background-color: white; cursor: pointer;" onclick="window.open('https://github.com/masayuki14',     '_blank')" />
+<img src="./assets/hatena.png"  style="width: 180px; background-color: white; cursor: pointer;" onclick="window.open('http://masayuki14.hatenablog.com/', '_blank')" />
 
 Follow me !!
 
