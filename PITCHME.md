@@ -472,7 +472,7 @@ Peach  peach      5    360   pink   1800
 
 - 対話的、探索的にデータを操作できる
 
-https://github.com/masayuki14/hannari-python-3/blob/master/notebook/Pandas.ipynb
+https://git.io/vA8Uj
 
 ---
 
