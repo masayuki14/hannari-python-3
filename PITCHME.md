@@ -14,9 +14,9 @@
 
 ### @masayuki14
 
-<a href="https://twitter.com/masayuki14"><img src="./twitter.png" style="width: 180px; background-color: white;" /></a>
-<a href="https://github.com/masayuki14"><img src="./github.png"  style="width: 180px; background-color: white;" /></a>
-<a href=""><img src="./hatena.png"  style="width: 180px; background-color: white;" /></a>
+<a href="https://twitter.com/masayuki14"><img src="twitter.png" style="width: 180px; background-color: white;" /></a>
+<a href="https://github.com/masayuki14"><img src="github.png"  style="width: 180px; background-color: white;" /></a>
+<a href="http://masayuki14.hatenablog.com/"><img src="hatena.png"  style="width: 180px; background-color: white;" /></a>
 
 Follow me !!
 
