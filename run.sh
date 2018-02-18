@@ -1,8 +1,8 @@
 # Dockerfile をビルド
-docker build -t jupyter .
+docker build -t hannary-python-3 .
 
 # jupyter notebook をdockerで立ち上げるコマンド
-docker run -it --rm -v $(pwd)/notebook:/root/notebook -p 80:8888 jupyter
+docker run -it --rm -v $(pwd)/notebook:/root/notebook -p 80:8888 hannary-python-3
 
 ## docker container 内で実行するコマンド
 # at /root/notebook
