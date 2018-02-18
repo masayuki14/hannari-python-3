@@ -10,9 +10,9 @@
 
 **Notebook**
 
-- [ingroduction]()
-- [use pandas]()
-- [積雪の可視化]()
+- [ingroduction](https://github.com/masayuki14/hannari-python-3/blob/master/notebook/intro.ipynb)
+- [use pandas](https://github.com/masayuki14/hannari-python-3/blob/master/notebook/Pandas.ipynb)
+- [積雪の可視化](https://github.com/masayuki14/hannari-python-3/blob/master/notebook/Snow.ipynb)
 
 ## JupyterNotebookを起動する
 
