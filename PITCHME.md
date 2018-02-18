@@ -19,6 +19,9 @@
     ![twitter](assets/twitter.png&size=180px)
 </a>
 <a href="https://github.com/masayuki14">
+---?image=assets/github.png&size=180px
+</a>
+<a href="https://github.com/masayuki14">
     <img src="./assets/github.png"  style="width: 180px; background-color: white;" />
 </a>
 <a href="http://masayuki14.hatenablog.com/">
