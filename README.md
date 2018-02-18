@@ -2,9 +2,17 @@
 
 はんなりPython#3 の発表資料です。
 
-- [Web Slide](https://gitpitch.com/masayuki14/hannari-python-3/master?grs=github&t=night#)
+**Slide**
 
+- [Web Slide](https://gitpitch.com/masayuki14/hannari-python-3/master?grs=github&t=night#)
 - [Speaker Deck]()
+- [PDF]()
+
+**Notebook**
+
+- [ingroduction]()
+- [use pandas]()
+- [積雪の可視化]()
 
 ## JupyterNotebookを起動する
 
@@ -25,3 +33,4 @@ $ sh run.sh
 ### Access localhost
 
 [http://localhost/](http://localhost/)
+
