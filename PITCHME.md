@@ -14,8 +14,9 @@
 
 ### @masayuki14
 
+<img src="./assets/twitter.png" style="width: 180px; background-color: white;" />
 <a href="https://twitter.com/masayuki14">
-    <img src="./assets/twitter.png" style="width: 180px; background-color: white;" />
+    ![twitter](assets/twitter.png&size=180px)
 </a>
 <a href="https://github.com/masayuki14">
     <img src="./assets/github.png"  style="width: 180px; background-color: white;" />
