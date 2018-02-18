@@ -14,9 +14,9 @@
 
 ### @masayuki14
 
-<img src="./twitter.png" style="width: 180px; background-color: white;" />
-<img src="./github.png"  style="width: 180px; background-color: white;" />
-<img src="./hatena.png"  style="width: 180px; background-color: white;" />
+<a href="https://twitter.com/masayuki14"><img src="./twitter.png" style="width: 180px; background-color: white;" /></a>
+<a href="https://github.com/masayuki14"><img src="./github.png"  style="width: 180px; background-color: white;" /></a>
+<a href=""><img src="./hatena.png"  style="width: 180px; background-color: white;" /></a>
 
 Follow me !!
 
@@ -63,7 +63,7 @@ Follow me !!
 
 ## スプーキーズ@京都
 
-### Webエンジニア募集中
+### [Webエンジニア募集中](https://t.co/HXwf0ZXPsZ)
 
 ---
 
@@ -77,10 +77,10 @@ Follow me !!
 
 ## 今日する話
 
-### Jupyter Notebook とは
-### Use Jupyter Notebook
-### Use Pandas
-### 身近なデータを可視化
+### 1. Jupyter Notebook とは
+### 2. Use Jupyter Notebook
+### 3. Use Pandas
+### 4. 身近なデータを可視化
 
 ---
 
@@ -98,7 +98,7 @@ Follow me !!
 
 ## Jupyter Notebook とは
 
-### Project Jupyter のサービスの一つ
+### Project Jupyter のサービスの1つ
 
 ライブコード、方程式、可視化、テキストを含むドキュメントを作成して共有できるオープンソースのWebアプリケーション
 
@@ -161,6 +161,7 @@ to login with a token:
     http://0.0.0.0:8888/?token=ba4fc6de0d99161f5e144ad4c1167ebf074ddc29b916065f
 ```
 
+起動ログに初回アクセスのURLが表示される
 ---
 
 ## Use Jupyter Notebook
@@ -196,7 +197,7 @@ hello()
 
 ## Use Jupyter Notebook
 
-### グラフ表示
+### グラフを表示
 
 ```python
 # グラフ表示を有効化
@@ -213,7 +214,7 @@ df.plot()
 
 ## Use Jupyter Notebook
 
-### グラフ表示
+### データの特徴
 
 ```python
 fibo_pd.describe()
@@ -237,9 +238,9 @@ fibo_pd.describe()
 
 ### Notebook URL
 
-https://github.com/masayuki14/reserve-docs/blob/master/slide/jupyter-notebook/notebook/intro.ipynb
+保存した `.ipynb` ファイルをGitHubにPushすると表示できる
 
-保存した `ipynb` をGitHubにPushすると表示できる。
+[notebook](https://github.com/masayuki14/hannari-python-3/blob/master/notebook/intro.ipynb)
 
 ---
 
@@ -471,6 +472,8 @@ Peach  peach      5    360   pink   1800
 
 - 対話的、探索的にデータを操作できる
 
+https://github.com/masayuki14/hannari-python-3/blob/master/notebook/Pandas.ipynb
+
 ---
 
 ## 身近なデータを可視化
@@ -500,6 +503,8 @@ Peach  peach      5    360   pink   1800
 
 ### 今年は雪が多い
 
+福井県出身なんです
+
 ---
 
 <img src="./IMG_3786.JPG" style="width: 30%" />
@@ -516,7 +521,7 @@ Peach  peach      5    360   pink   1800
 
 ## 身近なデータを可視化
 
-### 気象庁の観測データをダウンロード
+### 気象庁の観測データをDL
 
 http://www.data.jma.go.jp/gmd/risk/obsdl/index.php
 
@@ -569,3 +574,6 @@ Jupyter Notebook を使うことは
 ---
 
 ## ありがとうございました
+
+発表資料 https://git.io/vAl8
+
