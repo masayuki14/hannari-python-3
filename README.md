@@ -5,8 +5,8 @@
 **Slide**
 
 - [Web Slide](https://gitpitch.com/masayuki14/hannari-python-3/master?grs=github&t=night#)
-- [Speaker Deck]()
-- [PDF]()
+- [Speaker Deck](https://speakerdeck.com/masayuki14/jupyternotebookru-men)
+- [PDF](https://github.com/masayuki14/hannari-python-3/raw/master/JupyterNotebook%E5%85%A5%E9%96%80.pdf)
 
 **Notebook**
 
