@@ -14,9 +14,9 @@
 
 ### @masayuki14
 
-<a href="https://twitter.com/masayuki14"><img src="twitter.png" style="width: 180px; background-color: white;" /></a>
-<a href="https://github.com/masayuki14"><img src="github.png"  style="width: 180px; background-color: white;" /></a>
-<a href="http://masayuki14.hatenablog.com/"><img src="hatena.png"  style="width: 180px; background-color: white;" /></a>
+<img src="./assets/twitter.png" style="width: 180px; background-color: white;" onclick="window.location.href='https://twitter.com/masayuki14'"/>
+<a href="https://github.com/masayuki14"><img src="./assets/github.png"  style="width: 180px; background-color: white;" /></a>
+<a href="http://masayuki14.hatenablog.com/"><img src="./assets/hatena.png"  style="width: 180px; background-color: white;" /></a>
 
 Follow me !!
 
@@ -174,7 +174,7 @@ http://localhost/?token=ba4fc6de0d99161f5e144ad4c1167ebf074ddc29b916065f
 
 ## Use Jupyter Notebook
 
-<img src="jupyter_home.png" />
+<img src="./assets/jupyter_home.png" />
 
 ---
 
@@ -208,7 +208,7 @@ df = pd.DataFrame([1,1,2,3,5,8,13,21,34,55,89,144,233,377,610,987,1597,2584,4181
 df.plot()
 ```
 
-<img src="fibo_graph.png" style="background-color: white" />
+<img src="./assets/fibo_graph.png" style="background-color: white" />
 
 ---
 
@@ -220,7 +220,7 @@ df.plot()
 fibo_pd.describe()
 ```
 
-<img src="fibo_describe.png" style="background-color: white" />
+<img src="./assets/fibo_describe.png" style="background-color: white" />
 
 ---
 
@@ -507,8 +507,8 @@ https://github.com/masayuki14/hannari-python-3/blob/master/notebook/Pandas.ipynb
 
 ---
 
-<img src="./IMG_3786.JPG" style="width: 30%" />
-<img src="./IMG_3787.JPG" style="width: 30%" />
+<img src="./assets/IMG_3786.JPG" style="width: 30%" />
+<img src="./assets/IMG_3787.JPG" style="width: 30%" />
 
 
 ---
@@ -537,7 +537,7 @@ http://www.data.jma.go.jp/gmd/risk/obsdl/index.php
 
 ### 年別の最深積雪
 
-<img src="monthly_snow.png" style="background-color: white" />
+<img src="./assets/monthly_snow.png" style="background-color: white" />
 
 ---
 
@@ -545,7 +545,7 @@ http://www.data.jma.go.jp/gmd/risk/obsdl/index.php
 
 ### 昭和38年 (1963年)
 
-<img src="1963_snow.png" style="background-color: white" />
+<img src="./assets/1963_snow.png" style="background-color: white" />
 
 ---
 
@@ -553,7 +553,7 @@ http://www.data.jma.go.jp/gmd/risk/obsdl/index.php
 
 ### 昭和56年 (1981年)
 
-<img src="1981_snow.png" style="background-color: white" />
+<img src="./assets/1981_snow.png" style="background-color: white" />
 
 ---
 
@@ -561,7 +561,7 @@ http://www.data.jma.go.jp/gmd/risk/obsdl/index.php
 
 ### 平成30年 (2018年)
 
-<img src="2018_snow.png" style="background-color: white" />
+<img src="./assets/2018_snow.png" style="background-color: white" />
 
 ---
 
